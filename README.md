@@ -15,7 +15,7 @@ BLANK
 
 <h2>Environments Used </h2>
 
-- <b>VMWare Workstation 16</b> 
+- <b>VMWare Workstation Pro 16</b> 
 - <b>Windows Server 2012</b> 
 - <b>Windows Server 2019</b> 
 
